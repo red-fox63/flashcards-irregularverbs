@@ -1,0 +1,632 @@
+[
+  {
+    "french": "courber",
+    "infinitive": {
+      "text": "to bend",
+      "mwid": "bend0001.mp3"
+    },
+    "preterite": {
+      "text": "ben<font color=\"#ff0000\">t</font>",
+      "mwid": "bend0002.mp3"
+    },
+    "pastparticipe": {
+      "text": "ben<font color=\"#ff0000\">t</font>",
+      "mwid": "bend0002.mp3"
+    }
+  },
+  {
+    "french": "apporter",
+    "infinitive": {
+      "text": "to bring",
+      "mwid": "bring001.mp3"
+    },
+    "preterite": {
+      "text": "br<font color=\"#ff0000\">ought</font>",
+      "mwid": "bring002.mp3"
+    },
+    "pastparticipe": {
+      "text": "br<font color=\"#ff0000\">ought</font>",
+      "mwid": "bring002.mp3"
+    }
+  },
+  {
+    "french": "construire",
+    "infinitive": {
+      "text": "to build",
+      "mwid": "build001.mp3"
+    },
+    "preterite": {
+      "text": "buil<font color=\"#ff0000\">t</font>",
+      "mwid": "build002.mp3"
+    },
+    "pastparticipe": {
+      "text": "buil<font color=\"#ff0000\">t</font>",
+      "mwid": "build002.mp3"
+    }
+  },
+  {
+    "french": "br\u00fbler",
+    "infinitive": {
+      "text": "to burn",
+      "mwid": "burn0001.mp3"
+    },
+    "preterite": {
+      "text": "burn<font color=\"#ff0000\">t</font>",
+      "mwid": "burn0004.mp3"
+    },
+    "pastparticipe": {
+      "text": "burn<font color=\"#ff0000\">t</font>",
+      "mwid": "burn0004.mp3"
+    }
+  },
+  {
+    "french": "acheter",
+    "infinitive": {
+      "text": "to buy",
+      "mwid": "buy00001.mp3"
+    },
+    "preterite": {
+      "text": "b<font color=\"#ff0000\">ought</font>",
+      "mwid": "buy00002.mp3"
+    },
+    "pastparticipe": {
+      "text": "b<font color=\"#ff0000\">ought</font>",
+      "mwid": "buy00002.mp3"
+    }
+  },
+  {
+    "french": "attraper",
+    "infinitive": {
+      "text": "to catch",
+      "mwid": "catch001.mp3"
+    },
+    "preterite": {
+      "text": "c<font color=\"#ff0000\">aught</font>",
+      "mwid": "catch002.mp3"
+    },
+    "pastparticipe": {
+      "text": "c<font color=\"#ff0000\">aught</font>",
+      "mwid": "catch002.mp3"
+    }
+  },
+  {
+    "french": "distribuer",
+    "infinitive": {
+      "text": "to deal",
+      "mwid": "deal0001.mp3"
+    },
+    "preterite": {
+      "text": "deal<font color=\"#ff0000\">t</font>",
+      "mwid": "deal0002.mp3"
+    },
+    "pastparticipe": {
+      "text": "deal<font color=\"#ff0000\">t</font>",
+      "mwid": "deal0002.mp3"
+    }
+  },
+  {
+    "french": "creuser",
+    "infinitive": {
+      "text": "to dig",
+      "mwid": "dig00001.mp3"
+    },
+    "preterite": {
+      "text": "d<font color=\"#ff0000\">u</font>g",
+      "mwid": "dig00002.mp3"
+    },
+    "pastparticipe": {
+      "text": "d<font color=\"#ff0000\">u</font>g",
+      "mwid": "dig00002.mp3"
+    }
+  },
+  {
+    "french": "r\u00eaver",
+    "infinitive": {
+      "text": "to dream",
+      "mwid": "dream001.mp3"
+    },
+    "preterite": {
+      "text": "dream<font color=\"#ff0000\">t</font>",
+      "mwid": "dream006.mp3"
+    },
+    "pastparticipe": {
+      "text": "dream<font color=\"#ff0000\">t</font>",
+      "mwid": "dream006.mp3"
+    }
+  },
+  {
+    "french": "nourrir",
+    "infinitive": {
+      "text": "to feed",
+      "mwid": "feed0001.mp3"
+    },
+    "preterite": {
+      "text": "fe<font color=\"#ff0000\">d</font>",
+      "mwid": "feed0002.mp3"
+    },
+    "pastparticipe": {
+      "text": "fe<font color=\"#ff0000\">d</font>",
+      "mwid": "feed0002.mp3"
+    }
+  },
+  {
+    "french": "sentir/ressentir",
+    "infinitive": {
+      "text": "to feel",
+      "mwid": "feel0001.mp3"
+    },
+    "preterite": {
+      "text": "f<font color=\"#ff0000\">elt</font>",
+      "mwid": "feel0002.mp3"
+    },
+    "pastparticipe": {
+      "text": "f<font color=\"#ff0000\">elt</font>",
+      "mwid": "feel0002.mp3"
+    }
+  },
+  {
+    "french": "combattre",
+    "infinitive": {
+      "text": "to fight",
+      "mwid": "fight001.mp3"
+    },
+    "preterite": {
+      "text": "f<font color=\"#ff0000\">ought</font>",
+      "mwid": "fight002.mp3"
+    },
+    "pastparticipe": {
+      "text": "f<font color=\"#ff0000\">ought</font>",
+      "mwid": "fight002.mp3"
+    }
+  },
+  {
+    "french": "trouver",
+    "infinitive": {
+      "text": "to find",
+      "mwid": "find0001.mp3"
+    },
+    "preterite": {
+      "text": "f<font color=\"#ff0000\">ound</font>",
+      "mwid": "find0002.mp3"
+    },
+    "pastparticipe": {
+      "text": "f<font color=\"#ff0000\">ound</font>",
+      "mwid": "find0002.mp3"
+    }
+  },
+  {
+    "french": "obtenir",
+    "infinitive": {
+      "text": "to get",
+      "mwid": "get00001.mp3"
+    },
+    "preterite": {
+      "text": "g<font color=\"#ff0000\">ot</font>",
+      "mwid": "get00003.mp3"
+    },
+    "pastparticipe": {
+      "text": "g<font color=\"#ff0000\">otten</font>",
+      "mwid": "get00004.mp3"
+    }
+  },
+  {
+    "french": "pendre",
+    "infinitive": {
+      "text": "to hang",
+      "mwid": "hang0001.mp3"
+    },
+    "preterite": {
+      "text": "h<font color=\"#ff0000\">ung</font>",
+      "mwid": "hang0002.mp3"
+    },
+    "pastparticipe": {
+      "text": "h<font color=\"#ff0000\">ung</font>",
+      "mwid": "hang0002.mp3"
+    }
+  },
+  {
+    "french": "avoir",
+    "infinitive": {
+      "text": "to have",
+      "mwid": "have0001.mp3"
+    },
+    "preterite": {
+      "text": "h<font color=\"#ff0000\">ad</font>",
+      "mwid": "have0002.mp3"
+    },
+    "pastparticipe": {
+      "text": "h<font color=\"#ff0000\">ad</font>",
+      "mwid": "have0002.mp3"
+    }
+  },
+  {
+    "french": "entendre",
+    "infinitive": {
+      "text": "to hear",
+      "mwid": "hear0001.mp3"
+    },
+    "preterite": {
+      "text": "h<font color=\"#ff0000\">eard</font>",
+      "mwid": "hear0002.mp3"
+    },
+    "pastparticipe": {
+      "text": "h<font color=\"#ff0000\">eard</font>",
+      "mwid": "hear0002.mp3"
+    }
+  },
+  {
+    "french": "garder",
+    "infinitive": {
+      "text": "to keep",
+      "mwid": "keep0001.mp3"
+    },
+    "preterite": {
+      "text": "k<font color=\"#ff0000\">ept</font>",
+      "mwid": "kept0001.mp3"
+    },
+    "pastparticipe": {
+      "text": "k<font color=\"#ff0000\">ept</font>",
+      "mwid": "kept0001.mp3"
+    }
+  },
+  {
+    "french": "poser/deposer",
+    "infinitive": {
+      "text": "to lay",
+      "mwid": "lay00001.mp3"
+    },
+    "preterite": {
+      "text": "la<font color=\"#ff0000\">id</font>",
+      "mwid": "lay00002.mp3"
+    },
+    "pastparticipe": {
+      "text": "la<font color=\"#ff0000\">id</font>",
+      "mwid": "lay00002.mp3"
+    }
+  },
+  {
+    "french": "mener/guider",
+    "infinitive": {
+      "text": "to lead",
+      "mwid": "lead0001.mp3"
+    },
+    "preterite": {
+      "text": "l<font color=\"#ff0000\">ed</font>",
+      "mwid": "lead0002.mp3"
+    },
+    "pastparticipe": {
+      "text": "l<font color=\"#ff0000\">ed</font>",
+      "mwid": "lead0002.mp3"
+    }
+  },
+  {
+    "french": "s'incliner / s'appuyer",
+    "infinitive": {
+      "text": "to lean",
+      "mwid": "lean0001.mp3"
+    },
+    "preterite": {
+      "text": "lean<font color=\"#ff0000\">t</font>",
+      "mwid": "lean0002.mp3"
+    },
+    "pastparticipe": {
+      "text": "lean<font color=\"#ff0000\">t</font>",
+      "mwid": "lean0002.mp3"
+    }
+  },
+  {
+    "french": "sauter",
+    "infinitive": {
+      "text": "to leap",
+      "mwid": "leap0001.mp3"
+    },
+    "preterite": {
+      "text": "leap<font color=\"#ff0000\">t</font>",
+      "mwid": "leap0002.mp3"
+    },
+    "pastparticipe": {
+      "text": "leap<font color=\"#ff0000\">t</font>",
+      "mwid": "leap0002.mp3"
+    }
+  },
+  {
+    "french": "apprendre",
+    "infinitive": {
+      "text": "to learn",
+      "mwid": "learn001.mp3"
+    },
+    "preterite": {
+      "text": "learn<font color=\"#ff0000\">t</font>",
+      "mwid": "learn002.mp3"
+    },
+    "pastparticipe": {
+      "text": "learn<font color=\"#ff0000\">t</font>",
+      "mwid": "learn002.mp3"
+    }
+  },
+  {
+    "french": "partir",
+    "infinitive": {
+      "text": "to leave",
+      "mwid": "leave001.mp3"
+    },
+    "preterite": {
+      "text": "l<font color=\"#ff0000\">eft</font>",
+      "mwid": "leave002.mp3"
+    },
+    "pastparticipe": {
+      "text": "l<font color=\"#ff0000\">eft</font>",
+      "mwid": "leave002.mp3"
+    }
+  },
+  {
+    "french": "pr\u00eater",
+    "infinitive": {
+      "text": "to lend",
+      "mwid": "lend0001.mp3"
+    },
+    "preterite": {
+      "text": "len<font color=\"#ff0000\">t</font>",
+      "mwid": "lend0002.mp3"
+    },
+    "pastparticipe": {
+      "text": "len<font color=\"#ff0000\">t</font>",
+      "mwid": "lend0002.mp3"
+    }
+  },
+  {
+    "french": "perdre",
+    "infinitive": {
+      "text": "to lose",
+      "mwid": "lose0001.mp3"
+    },
+    "preterite": {
+      "text": "los<font color=\"#ff0000\">t</font>",
+      "mwid": "lose0002.mp3"
+    },
+    "pastparticipe": {
+      "text": "los<font color=\"#ff0000\">t</font>",
+      "mwid": "lose0002.mp3"
+    }
+  },
+  {
+    "french": "fabriquer",
+    "infinitive": {
+      "text": "to make",
+      "mwid": "make0001.mp3"
+    },
+    "preterite": {
+      "text": "ma<font color=\"#ff0000\">de</font>",
+      "mwid": "make0002.mp3"
+    },
+    "pastparticipe": {
+      "text": "ma<font color=\"#ff0000\">de</font>",
+      "mwid": "make0002.mp3"
+    }
+  },
+  {
+    "french": "signifier",
+    "infinitive": {
+      "text": "to mean",
+      "mwid": "mean0001.mp3"
+    },
+    "preterite": {
+      "text": "mean<font color=\"#ff0000\">t</font>",
+      "mwid": "mean0002.mp3"
+    },
+    "pastparticipe": {
+      "text": "mean<font color=\"#ff0000\">t</font>",
+      "mwid": "mean0002.mp3"
+    }
+  },
+  {
+    "french": "rencontrer",
+    "infinitive": {
+      "text": "to meet",
+      "mwid": "meet0001.mp3"
+    },
+    "preterite": {
+      "text": "me<font color=\"#ff0000\">t</font>",
+      "mwid": "meet0002.mp3"
+    },
+    "pastparticipe": {
+      "text": "me<font color=\"#ff0000\">t</font>",
+      "mwid": "meet0002.mp3"
+    }
+  },
+  {
+    "french": "dire",
+    "infinitive": {
+      "text": "to say",
+      "mwid": "say00001.mp3"
+    },
+    "preterite": {
+      "text": "sai<font color=\"#ff0000\">d</font>",
+      "mwid": "say00002.mp3"
+    },
+    "pastparticipe": {
+      "text": "sai<font color=\"#ff0000\">d</font>",
+      "mwid": "say00002.mp3"
+    }
+  },
+  {
+    "french": "vendre",
+    "infinitive": {
+      "text": "to sell",
+      "mwid": "sell0001.mp3"
+    },
+    "preterite": {
+      "text": "s<font color=\"#ff0000\">old</font>",
+      "mwid": "sell0002.mp3"
+    },
+    "pastparticipe": {
+      "text": "s<font color=\"#ff0000\">old</font>",
+      "mwid": "sell0002.mp3"
+    }
+  },
+  {
+    "french": "envoyer",
+    "infinitive": {
+      "text": "to send",
+      "mwid": "send0001.mp3"
+    },
+    "preterite": {
+      "text": "sen<font color=\"#ff0000\">t</font>",
+      "mwid": "send0002.mp3"
+    },
+    "pastparticipe": {
+      "text": "sen<font color=\"#ff0000\">t</font>",
+      "mwid": "send0002.mp3"
+    }
+  },
+  {
+    "french": "briller",
+    "infinitive": {
+      "text": "to shine",
+      "mwid": "shine001.mp3"
+    },
+    "preterite": {
+      "text": "sh<font color=\"#ff0000\">o</font>ne",
+      "mwid": "shine002.mp3"
+    },
+    "pastparticipe": {
+      "text": "sh<font color=\"#ff0000\">o</font>ne",
+      "mwid": "shine002.mp3"
+    }
+  },
+  {
+    "french": "tirer",
+    "infinitive": {
+      "text": "to shoot",
+      "mwid": "shoot001.mp3"
+    },
+    "preterite": {
+      "text": "sh<font color=\"#ff0000\">o</font>t",
+      "mwid": "shoot002.mp3"
+    },
+    "pastparticipe": {
+      "text": "sh<font color=\"#ff0000\">o</font>t",
+      "mwid": "shoot002.mp3"
+    }
+  },
+  {
+    "french": "s'asseoir",
+    "infinitive": {
+      "text": "to sit",
+      "mwid": "sit00001.mp3"
+    },
+    "preterite": {
+      "text": "s<font color=\"#ff0000\">a</font>t",
+      "mwid": "sit00002.mp3"
+    },
+    "pastparticipe": {
+      "text": "s<font color=\"#ff0000\">a</font>t",
+      "mwid": "sit00002.mp3"
+    }
+  },
+  {
+    "french": "dormir",
+    "infinitive": {
+      "text": "to sleep",
+      "mwid": "sleep001.mp3"
+    },
+    "preterite": {
+      "text": "sl<font color=\"#ff0000\">ept</font>",
+      "mwid": "sleep002.mp3"
+    },
+    "pastparticipe": {
+      "text": "sl<font color=\"#ff0000\">ept</font>",
+      "mwid": "sleep002.mp3"
+    }
+  },
+  {
+    "french": "glisser",
+    "infinitive": {
+      "text": "to slide",
+      "mwid": "slide001.mp3"
+    },
+    "preterite": {
+      "text": "sl<font color=\"#ff0000\">id</font>",
+      "mwid": "slide002.mp3"
+    },
+    "pastparticipe": {
+      "text": "sl<font color=\"#ff0000\">id</font>",
+      "mwid": "slide002.mp3"
+    }
+  },
+  {
+    "french": "sentir (nez)",
+    "infinitive": {
+      "text": "to smell",
+      "mwid": "smell001.mp3"
+    },
+    "preterite": {
+      "text": "smel<font color=\"#ff0000\">t</font>",
+      "mwid": "smell002.mp3"
+    },
+    "pastparticipe": {
+      "text": "smel<font color=\"#ff0000\">t</font>",
+      "mwid": "smell002.mp3"
+    }
+  },
+  {
+    "french": "aller vite",
+    "infinitive": {
+      "text": "to speed",
+      "mwid": "speed001.mp3"
+    },
+    "preterite": {
+      "text": "sp<font color=\"#ff0000\">ed</font>",
+      "mwid": "speed002.mp3"
+    },
+    "pastparticipe": {
+      "text": "sp<font color=\"#ff0000\">ed</font>",
+      "mwid": "speed002.mp3"
+    }
+  },
+  {
+    "french": "\u00e9peler",
+    "infinitive": {
+      "text": "to spell",
+      "mwid": "spell001.mp3"
+    },
+    "preterite": {
+      "text": "spe<font color=\"#ff0000\">lt</font>",
+      "mwid": "spell002.mp3"
+    },
+    "pastparticipe": {
+      "text": "spe<font color=\"#ff0000\">lt</font>",
+      "mwid": "spell002.mp3"
+    }
+  },
+  {
+    "french": "depenser",
+    "infinitive": {
+      "text": "to spend",
+      "mwid": "spend001.mp3"
+    },
+    "preterite": {
+      "text": "spen<font color=\"#ff0000\">t</font>",
+      "mwid": "spend002.mp3"
+    },
+    "pastparticipe": {
+      "text": "spen<font color=\"#ff0000\">t</font>",
+      "mwid": "spend002.mp3"
+    }
+  },
+  {
+    "french": "\u00eatre debout",
+    "infinitive": {
+      "text": "to stand",
+      "mwid": "stand001.mp3"
+    },
+    "preterite": {
+      "text": "st<font color=\"#ff0000\">ood</font>",
+      "mwid": "stand002.mp3"
+    },
+    "pastparticipe": {
+      "text": "st<font color=\"#ff0000\">ood</font>",
+      "mwid": "stand002.mp3"
+    }
+  }
+]
