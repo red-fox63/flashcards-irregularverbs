@@ -307,11 +307,11 @@
     },
     "preterite": {
       "text": "lean<font color=\"#ff0000\">t</font>",
-      "mwid": "lean0002.mp3"
+      "mwid": "leant001.mp3"
     },
     "pastparticipe": {
       "text": "lean<font color=\"#ff0000\">t</font>",
-      "mwid": "lean0002.mp3"
+      "mwid": "leant001.mp3"
     }
   },
   {
@@ -337,11 +337,11 @@
     },
     "preterite": {
       "text": "learn<font color=\"#ff0000\">t</font>",
-      "mwid": "learn002.mp3"
+      "mwid": "learn003.mp3"
     },
     "pastparticipe": {
       "text": "learn<font color=\"#ff0000\">t</font>",
-      "mwid": "learn002.mp3"
+      "mwid": "learn003.mp3"
     }
   },
   {
@@ -833,11 +833,11 @@
       "mwid": "read0001.mp3"
     },
     "preterite": {
-      "text": "read [prun: red]",
+      "text": "read <i>[prun: red]</i>",
       "mwid": "read0002.mp3"
     },
     "pastparticipe": {
-      "text": "read [prun: red]",
+      "text": "read <i>[prun: red]</i>",
       "mwid": "read0002.mp3"
     }
   },
