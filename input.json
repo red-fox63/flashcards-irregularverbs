@@ -628,5 +628,262 @@
       "text": "st<font color=\"#ff0000\">ood</font>",
       "mwid": "stand002.mp3"
     }
+  },
+  {
+    "french": "coller",
+    "infinitive": {
+      "text": "to stick",
+      "mwid": "stick001.mp3"
+    },
+    "preterite": {
+      "text": "st<font color=\"#ff0000\">u</font>ck",
+      "mwid": "stick003.mp3"
+    },
+    "pastparticipe": {
+      "text": "st<font color=\"#ff0000\">u</font>ck",
+      "mwid": "stick003.mp3"
+    }
+  },
+  {
+    "french": "frapper",
+    "infinitive": {
+      "text": "to strike",
+      "mwid": "strike01.mp3"
+    },
+    "preterite": {
+      "text": "str<font color=\"#ff0000\">u</font>ke",
+      "mwid": "strike02.mp3"
+    },
+    "pastparticipe": {
+      "text": "str<font color=\"#ff0000\">u</font>ke",
+      "mwid": "strike02.mp3"
+    }
+  },
+  {
+    "french": "balancer",
+    "infinitive": {
+      "text": "to swing",
+      "mwid": "swing001.mp3"
+    },
+    "preterite": {
+      "text": "sw<font color=\"#ff0000\">u</font>ng",
+      "mwid": "swing002.mp3"
+    },
+    "pastparticipe": {
+      "text": "sw<font color=\"#ff0000\">u</font>ng",
+      "mwid": "swing002.mp3"
+    }
+  },
+  {
+    "french": "enseigner",
+    "infinitive": {
+      "text": "to teach",
+      "mwid": "teach001.mp3"
+    },
+    "preterite": {
+      "text": "t<font color=\"#ff0000\">aught</font>",
+      "mwid": "teach002.mp3"
+    },
+    "pastparticipe": {
+      "text": "t<font color=\"#ff0000\">aught</font>",
+      "mwid": "teach002.mp3"
+    }
+  },
+  {
+    "french": "dire ( raconter )",
+    "infinitive": {
+      "text": "to tell",
+      "mwid": "tell0001.mp3"
+    },
+    "preterite": {
+      "text": "t<font color=\"#ff0000\">old</font>",
+      "mwid": "tell0002.mp3"
+    },
+    "pastparticipe": {
+      "text": "t<font color=\"#ff0000\">old</font>",
+      "mwid": "tell0002.mp3"
+    }
+  },
+  {
+    "french": "penser",
+    "infinitive": {
+      "text": "to think",
+      "mwid": "think001.mp3"
+    },
+    "preterite": {
+      "text": "t<font color=\"#ff0000\">ought</font>",
+      "mwid": "think002.mp3"
+    },
+    "pastparticipe": {
+      "text": "t<font color=\"#ff0000\">ought</font>",
+      "mwid": "think002.mp3"
+    }
+  },
+  {
+    "french": "comprendre",
+    "infinitive": {
+      "text": "to understand",
+      "mwid": "unders23.mp3"
+    },
+    "preterite": {
+      "text": "underst<font color=\"#ff0000\">oo</font>d",
+      "mwid": "unders34.mp3"
+    },
+    "pastparticipe": {
+      "text": "underst<font color=\"#ff0000\">oo</font>d",
+      "mwid": "unders34.mp3"
+    }
+  },
+  {
+    "french": "gagner",
+    "infinitive": {
+      "text": "to win",
+      "mwid": "win00001.mp3"
+    },
+    "preterite": {
+      "text": "w<font color=\"#ff0000\">o</font>n",
+      "mwid": "won00001.mp3"
+    },
+    "pastparticipe": {
+      "text": "w<font color=\"#ff0000\">o</font>n",
+      "mwid": "won00001.mp3"
+    }
+  },
+
+
+  {
+    "french": "parier",
+    "infinitive": {
+      "text": "to bet",
+      "mwid": "bet00001.mp3"
+    },
+    "preterite": {
+      "text": "bet",
+      "mwid": "bet00001.mp3"
+    },
+    "pastparticipe": {
+      "text": "bet",
+      "mwid": "bet00001.mp3"
+    }
+  },
+  {
+    "french": "co\u00fbter",
+    "infinitive": {
+      "text": "to cost",
+      "mwid": "cost0001.mp3"
+    },
+    "preterite": {
+      "text": "cost",
+      "mwid": "cost0001.mp3"
+    },
+    "pastparticipe": {
+      "text": "cost",
+      "mwid": "cost0001.mp3"
+    }
+  },
+  {
+    "french": "couper",
+    "infinitive": {
+      "text": "to cut",
+      "mwid": "cut00001.mp3"
+    },
+    "preterite": {
+      "text": "cut",
+      "mwid": "cut00001.mp3"
+    },
+    "pastparticipe": {
+      "text": "cut",
+      "mwid": "cut00001.mp3"
+    }
+  },
+  {
+    "french": "frapper, atteindre",
+    "infinitive": {
+      "text": "to hit",
+      "mwid": "hit00001.mp3"
+    },
+    "preterite": {
+      "text": "hit",
+      "mwid": "hit00001.mp3"
+    },
+    "pastparticipe": {
+      "text": "hit",
+      "mwid": "hit00001.mp3"
+    }
+  },
+  {
+    "french": "laisser",
+    "infinitive": {
+      "text": "to let",
+      "mwid": "let00001.mp3"
+    },
+    "preterite": {
+      "text": "let",
+      "mwid": "let00001.mp3"
+    },
+    "pastparticipe": {
+      "text": "let",
+      "mwid": "let00001.mp3"
+    }
+  },
+  {
+    "french": "lire",
+    "infinitive": {
+      "text": "to read",
+      "mwid": "read0001.mp3"
+    },
+    "preterite": {
+      "text": "read [prun: red]",
+      "mwid": "read0002.mp3"
+    },
+    "pastparticipe": {
+      "text": "read [prun: red]",
+      "mwid": "read0002.mp3"
+    }
+  },
+  {
+    "french": "mettre/poser",
+    "infinitive": {
+      "text": "to put",
+      "mwid": "put00001.mp3"
+    },
+    "preterite": {
+      "text": "put",
+      "mwid": "put00001.mp3"
+    },
+    "pastparticipe": {
+      "text": "put",
+      "mwid": "put00001.mp3"
+    }
+  },
+  {
+    "french": "fermer",
+    "infinitive": {
+      "text": "to shut",
+      "mwid": "shut0001.mp3"
+    },
+    "preterite": {
+      "text": "shut",
+      "mwid": "shut0001.mp3"
+    },
+    "pastparticipe": {
+      "text": "shut",
+      "mwid": "shut0001.mp3"
+    }
+  },
+  {
+    "french": "étendre, étaler",
+    "infinitive": {
+      "text": "to spread",
+      "mwid": "spread01.mp3"
+    },
+    "preterite": {
+      "text": "spread",
+      "mwid": "spread01.mp3"
+    },
+    "pastparticipe": {
+      "text": "spread",
+      "mwid": "spread01.mp3"
+    }
   }
 ]
