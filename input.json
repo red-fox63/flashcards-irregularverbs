@@ -487,11 +487,11 @@
     },
     "preterite": {
       "text": "sh<font color=\"#ff0000\">o</font>ne",
-      "mwid": "shine002.mp3"
+      "mwid": "shine003.mp3"
     },
     "pastparticipe": {
       "text": "sh<font color=\"#ff0000\">o</font>ne",
-      "mwid": "shine002.mp3"
+      "mwid": "shine003.mp3"
     }
   },
   {
@@ -562,11 +562,11 @@
     },
     "preterite": {
       "text": "smel<font color=\"#ff0000\">t</font>",
-      "mwid": "smell002.mp3"
+      "mwid": "smell003.mp3"
     },
     "pastparticipe": {
       "text": "smel<font color=\"#ff0000\">t</font>",
-      "mwid": "smell002.mp3"
+      "mwid": "smell003.mp3"
     }
   },
   {
@@ -577,11 +577,11 @@
     },
     "preterite": {
       "text": "sp<font color=\"#ff0000\">ed</font>",
-      "mwid": "speed002.mp3"
+      "mwid": "speed003.mp3"
     },
     "pastparticipe": {
       "text": "sp<font color=\"#ff0000\">ed</font>",
-      "mwid": "speed002.mp3"
+      "mwid": "speed003.mp3"
     }
   },
   {
@@ -592,11 +592,11 @@
     },
     "preterite": {
       "text": "spe<font color=\"#ff0000\">lt</font>",
-      "mwid": "spell002.mp3"
+      "mwid": "spelt001.mp3"
     },
     "pastparticipe": {
       "text": "spe<font color=\"#ff0000\">lt</font>",
-      "mwid": "spell002.mp3"
+      "mwid": "spelt001.mp3"
     }
   },
   {
