@@ -885,5 +885,112 @@
       "text": "spread",
       "mwid": "spread01.mp3"
     }
+  },
+
+  {
+    "french": "être",
+    "infinitive": {
+      "text": "to be",
+      "mwid": "be000001.mp3"
+    },
+    "preterite": {
+      "text": "<font color=\"#ff0000\">was</font> / <font color=\"#ff0000\">were</font>",
+      "mwid": "be000002.mp3"
+    },
+    "pastparticipe": {
+      "text": "<font color=\"#ff0000\">been</font>",
+      "mwid": "be000004.mp3"
+    }    
+  },
+  {
+    "french": "battre",
+    "infinitive": {
+      "text": "to beat",
+      "mwid": "beat0001.mp3"
+    },
+    "preterite": {
+      "text": "beat",
+      "mwid": "beat0001.mp3"
+    },
+    "pastparticipe": {
+      "text": "bea<font color=\"#ff0000\">ten</font>",
+      "mwid": "beat0002.mp3"
+    }    
+  },
+  {
+    "french": "devenir",
+    "infinitive": {
+      "text": "to become",
+      "mwid": "become01.mp3"
+    },
+    "preterite": {
+      "text": "be<font color=\"#ff0000\">came</font>",
+      "mwid": "become02.mp3"
+    },
+    "pastparticipe": {
+      "text": "become",
+      "mwid": "become01.mp3"
+    }    
+  },
+  {
+    "french": "débuter",
+    "infinitive": {
+      "text": "to begin",
+      "mwid": "begin001.mp3"
+    },
+    "preterite": {
+      "text": "be<font color=\"#ff0000\">gan</font>",
+      "mwid": "begin002.mp3"
+    },
+    "pastparticipe": {
+      "text": "be<font color=\"#ff0000\">gun</font>",
+      "mwid": "begin003.mp3"
+    }    
+  },
+  {
+    "french": "débuter",
+    "infinitive": {
+      "text": "to begin",
+      "mwid": "begin001.mp3"
+    },
+    "preterite": {
+      "text": "be<font color=\"#ff0000\">gan</font>",
+      "mwid": "begin002.mp3"
+    },
+    "pastparticipe": {
+      "text": "be<font color=\"#ff0000\">gun</font>",
+      "mwid": "begin003.mp3"
+    }    
+  },
+  {
+    "french": "mordre",
+    "infinitive": {
+      "text": "to bite",
+      "mwid": "bite0001.mp3"
+    },
+    "preterite": {
+      "text": "<font color=\"#ff0000\">bit</font>",
+      "mwid": "bite0002.mp3"
+    },
+    "pastparticipe": {
+      "text": "<font color=\"#ff0000\">bitten</font>",
+      "mwid": "bite0003.mp3"
+    }    
+  },
+
+  {
+    "french": "choisir",
+    "infinitive": {
+      "text": "to choose",
+      "mwid": "choose01.mp3"
+    },
+    "preterite": {
+      "text": "ch<font color=\"#ff0000\">o</font>se",
+      "mwid": "choose02.mp3"
+    },
+    "pastparticipe": {
+      "text": "ch<font color=\"#ff0000\">osen</font>",
+      "mwid": "choose03.mp3"
+    }    
   }
 ]
