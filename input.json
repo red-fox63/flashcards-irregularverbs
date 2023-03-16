@@ -1436,11 +1436,11 @@
       "mwid": "swear001.mp3"
     },
     "preterite": {
-      "text": "sw<font color=\"#ff0000\">owe</font>",
+      "text": "sw<font color=\"#ff0000\">ore</font>",
       "mwid": "swear002.mp3"
     },
     "pastparticipe": {
-      "text": "sw<font color=\"#ff0000\">own</font>",
+      "text": "sw<font color=\"#ff0000\">orn</font>",
       "mwid": "swear003.mp3"
     }    
   },
@@ -1457,6 +1457,66 @@
     "pastparticipe": {
       "text": "t<font color=\"#ff0000\">aken</font>",
       "mwid": "take0003.mp3"
+    }    
+  },
+  {
+    "french": "lancer",
+    "infinitive": {
+      "text": "to throw",
+      "mwid": "throw001.mp3"
+    },
+    "preterite": {
+      "text": "thr<font color=\"#ff0000\">e</font>w",
+      "mwid": "throw002.mp3"
+    },
+    "pastparticipe": {
+      "text": "thr<font color=\"#ff0000\">own</font>",
+      "mwid": "throw003.mp3"
+    }    
+  },
+  {
+    "french": "(s')éveiller",
+    "infinitive": {
+      "text": "to wake",
+      "mwid": "wake0001.mp3"
+    },
+    "preterite": {
+      "text": "w<font color=\"#ff0000\">o</font>ke",
+      "mwid": "woke0001.mp3"
+    },
+    "pastparticipe": {
+      "text": "w<font color=\"#ff0000\">oken</font>",
+      "mwid": "woken001.mp3"
+    }    
+  },
+    {
+    "french": "porter",
+    "infinitive": {
+      "text": "to wear",
+      "mwid": "wear0001.mp3"
+    },
+    "preterite": {
+      "text": "w<font color=\"#ff0000\">ore</font>",
+      "mwid": "wore0001.mp3"
+    },
+    "pastparticipe": {
+      "text": "w<font color=\"#ff0000\">orn</font>",
+      "mwid": "worn0003.mp3"
+    }    
+  },
+      {
+    "french": "écrire",
+    "infinitive": {
+      "text": "to write",
+      "mwid": "write001.mp3"
+    },
+    "preterite": {
+      "text": "wr<font color=\"#ff0000\">o</font>te",
+      "mwid": "wrote001.mp3"
+    },
+    "pastparticipe": {
+      "text": "wr<font color=\"#ff0000\">itten</font>",
+      "mwid": "writte01.mp3"
     }    
   }
 ]
